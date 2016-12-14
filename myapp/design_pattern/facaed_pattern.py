@@ -57,8 +57,8 @@ class TestRunner(object):
 
 
 def client():
-    testRunner = TestRunner()
-    testRunner.runAll()
+    test_runner = TestRunner()
+    test_runner.runAll()
 
 
 if __name__ == '__main__':

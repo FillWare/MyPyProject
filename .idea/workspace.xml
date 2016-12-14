@@ -19,21 +19,24 @@
     <SUITE FILE_PATH="coverage/PyCharm-Project$process_apply_excel.coverage" NAME="process_apply_excel Coverage Results" MODIFIED="1477389087077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/workspace" />
     <SUITE FILE_PATH="coverage/PyCharm-Project$getattr.coverage" NAME="getattr Coverage Results" MODIFIED="1480637755820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/workspace" />
     <SUITE FILE_PATH="coverage/PyCharm-Project$factory_pattern.coverage" NAME="factory_pattern Coverage Results" MODIFIED="1480465897119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/design_pattern" />
+    <SUITE FILE_PATH="coverage/PyCharm-Project$asr_grammar.coverage" NAME="asr_grammar Coverage Results" MODIFIED="1481600146376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/voice_print" />
     <SUITE FILE_PATH="coverage/PyCharm-Project$adapter_pattern__1_.coverage" NAME="adapter_pattern (1) Coverage Results" MODIFIED="1480602915318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/design_pattern" />
     <SUITE FILE_PATH="coverage/PyCharm-Project$Unittests_in_facaed_pattern.coverage" NAME="Unittests in facaed_pattern Coverage Results" MODIFIED="1480638471271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/design_pattern" />
     <SUITE FILE_PATH="coverage/PyCharm-Project$check_wav.coverage" NAME="check_wav Coverage Results" MODIFIED="1477280803171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/workspace" />
+    <SUITE FILE_PATH="coverage/PyCharm-Project$descriptor.coverage" NAME="descriptor Coverage Results" MODIFIED="1481506048393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/workspace" />
     <SUITE FILE_PATH="coverage/PyCharm-Project$abstract_factory_pattern.coverage" NAME="abstract_factory_pattern Coverage Results" MODIFIED="1480319017060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/design_pattern" />
     <SUITE FILE_PATH="coverage/PyCharm-Project$prototype_pattern.coverage" NAME="prototype_pattern Coverage Results" MODIFIED="1480492470475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/design_pattern" />
     <SUITE FILE_PATH="coverage/PyCharm-Project$Unittests_in_mediator_pattern.coverage" NAME="Unittests in mediator_pattern Coverage Results" MODIFIED="1480897506060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/design_pattern" />
     <SUITE FILE_PATH="coverage/PyCharm-Project$vpr_group_operation.coverage" NAME="vpr_group_operation Coverage Results" MODIFIED="1480661970653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/voice_print" />
-    <SUITE FILE_PATH="coverage/PyCharm-Project$memo_pattern.coverage" NAME="memo_pattern Coverage Results" MODIFIED="1480897584239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/design_pattern" />
+    <SUITE FILE_PATH="coverage/PyCharm-Project$memo_pattern.coverage" NAME="memo_pattern Coverage Results" MODIFIED="1481507926085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/design_pattern" />
     <SUITE FILE_PATH="coverage/PyCharm-Project$adapter_pattern.coverage" NAME="adapter_pattern Coverage Results" MODIFIED="1480599188954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/design_pattern" />
     <SUITE FILE_PATH="coverage/PyCharm-Project$template_pattern.coverage" NAME="template_pattern Coverage Results" MODIFIED="1480856820794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/design_pattern" />
+    <SUITE FILE_PATH="coverage/PyCharm-Project$LFUCache.coverage" NAME="LFUCache Coverage Results" MODIFIED="1481695834056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/workspace" />
     <SUITE FILE_PATH="coverage/PyCharm-Project$strategy_pattern.coverage" NAME="strategy_pattern Coverage Results" MODIFIED="1480649072322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/design_pattern" />
     <SUITE FILE_PATH="coverage/PyCharm-Project$copy_file_utils.coverage" NAME="copy_file_utils Coverage Results" MODIFIED="1476408607940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/workspace" />
     <SUITE FILE_PATH="coverage/PyCharm-Project$responsibility_chain_pattern.coverage" NAME="responsibility_chain_pattern Coverage Results" MODIFIED="1480858844098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/design_pattern" />
     <SUITE FILE_PATH="coverage/PyCharm-Project$Unittests_in_TestRunner.coverage" NAME="Unittests in TestRunner Coverage Results" MODIFIED="1480638439982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/design_pattern" />
-    <SUITE FILE_PATH="coverage/PyCharm-Project$singleton_pattern.coverage" NAME="singleton_pattern Coverage Results" MODIFIED="1480403431181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/design_pattern" />
+    <SUITE FILE_PATH="coverage/PyCharm-Project$singleton_pattern.coverage" NAME="singleton_pattern Coverage Results" MODIFIED="1481614096352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/design_pattern" />
     <SUITE FILE_PATH="coverage/PyCharm-Project$facaed_pattern.coverage" NAME="facaed_pattern Coverage Results" MODIFIED="1480638568209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/design_pattern" />
     <SUITE FILE_PATH="coverage/PyCharm-Project$mediator_pattern.coverage" NAME="mediator_pattern Coverage Results" MODIFIED="1480898782302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/design_pattern" />
     <SUITE FILE_PATH="coverage/PyCharm-Project$pool_design_pattern.coverage" NAME="pool_design_pattern Coverage Results" MODIFIED="1480317637616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/design_pattern" />
@@ -41,7 +44,7 @@
     <SUITE FILE_PATH="coverage/PyCharm-Project$proxy_pattern.coverage" NAME="proxy_pattern Coverage Results" MODIFIED="1480595266979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/design_pattern" />
     <SUITE FILE_PATH="coverage/PyCharm-Project$builder_pattern.coverage" NAME="builder_pattern Coverage Results" MODIFIED="1480487888300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/design_pattern" />
     <SUITE FILE_PATH="coverage/PyCharm-Project$observer_pattern.coverage" NAME="observer_pattern Coverage Results" MODIFIED="1480824544021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/design_pattern" />
-    <SUITE FILE_PATH="coverage/PyCharm-Project$decorator_pattern.coverage" NAME="decorator_pattern Coverage Results" MODIFIED="1480639405220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/design_pattern" />
+    <SUITE FILE_PATH="coverage/PyCharm-Project$decorator_pattern.coverage" NAME="decorator_pattern Coverage Results" MODIFIED="1481614409432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/design_pattern" />
     <SUITE FILE_PATH="coverage/PyCharm-Project$pool_pattern.coverage" NAME="pool_pattern Coverage Results" MODIFIED="1480391147706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp/design_pattern" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -53,85 +56,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="memo_pattern.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myapp/design_pattern/memo_pattern.py">
+      <file leaf-file-name="LFUCache.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myapp/workspace/LFUCache.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+            <state relative-caret-position="1330">
+              <caret line="70" column="55" selection-start-line="70" selection-start-column="55" selection-end-line="70" selection-end-column="55" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strategy_pattern.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myapp/design_pattern/strategy_pattern.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
-              <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="observer_pattern.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myapp/design_pattern/observer_pattern.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="63" column="18" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template_pattern.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myapp/design_pattern/template_pattern.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
-              <folding>
-                <marker date="1480856817329" expanded="true" signature="104:170" ph="..." />
-                <marker date="1480856817329" expanded="true" signature="130:170" ph="..." />
-                <marker date="1480856817329" expanded="true" signature="203:279" ph="..." />
-                <marker date="1480856817329" expanded="true" signature="297:328" ph="..." />
-                <marker date="1480856817329" expanded="true" signature="347:397" ph="..." />
-                <marker date="1480856817329" expanded="true" signature="421:436" ph="..." />
-                <marker date="1480856817329" expanded="true" signature="462:483" ph="..." />
-                <marker date="1480856817329" expanded="true" signature="530:603" ph="..." />
-                <marker date="1480856817329" expanded="true" signature="550:583" ph="..." />
-                <marker date="1480856817329" expanded="true" signature="617:857" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="responsibility_chain_pattern.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myapp/design_pattern/responsibility_chain_pattern.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="82" column="26" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="26" />
-              <folding>
-                <marker date="1480858844052" expanded="true" signature="60:75" ph="..." />
-                <marker date="1480858844052" expanded="true" signature="100:320" ph="..." />
-                <marker date="1480858844052" expanded="true" signature="166:191" ph="..." />
-                <marker date="1480858844052" expanded="true" signature="232:267" ph="..." />
-                <marker date="1480858844052" expanded="true" signature="352:656" ph="..." />
-                <marker date="1480858844052" expanded="true" signature="391:656" ph="..." />
-                <marker date="1480858844052" expanded="true" signature="1021:1505" ph="..." />
-                <marker date="1480858844052" expanded="true" signature="1060:1505" ph="..." />
-                <marker date="1480858844052" expanded="true" signature="1605:2268" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mediator_pattern.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/myapp/design_pattern/mediator_pattern.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="105" column="0" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
-              <folding>
-                <element signature="e#22#35#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -152,11 +82,9 @@
         <option value="$PROJECT_DIR$/myapp/workspace/EncodedFormat.py" />
         <option value="$PROJECT_DIR$/myapp/workspace/encoded_format.py" />
         <option value="$PROJECT_DIR$/myapp/workspace/check_wav.py" />
-        <option value="$PROJECT_DIR$/myapp/workspace/process_apply_excel.py" />
         <option value="$PROJECT_DIR$/myapp/workspace/copy_file_utils.py" />
         <option value="$PROJECT_DIR$/myapp/design_pattern/pool_design_pattern.py" />
         <option value="$PROJECT_DIR$/myapp/design_pattern/abstract_factory_pattern.py" />
-        <option value="$PROJECT_DIR$/myapp/design_pattern/singleton_pattern.py" />
         <option value="$PROJECT_DIR$/myapp/design_pattern/lazy_evaluation_pattern.py" />
         <option value="$PROJECT_DIR$/myapp/design_pattern/factory_pattern.py" />
         <option value="$PROJECT_DIR$/myapp/design_pattern/builder_pattern.py" />
@@ -164,17 +92,24 @@
         <option value="$PROJECT_DIR$/myapp/design_pattern/proxy_pattern.py" />
         <option value="$PROJECT_DIR$/myapp/workspace/getattr.py" />
         <option value="$PROJECT_DIR$/myapp/design_pattern/adapter_pattern.py" />
-        <option value="$PROJECT_DIR$/myapp/design_pattern/facaed_pattern.py" />
         <option value="$PROJECT_DIR$/myapp/design_pattern/decorator_pattern.py" />
         <option value="$PROJECT_DIR$/myapp/design_pattern/momento_pattern.py" />
-        <option value="$PROJECT_DIR$/myapp/design_pattern/memo_pattern.py" />
         <option value="$PROJECT_DIR$/myapp/design_pattern/strategy_pattern.py" />
-        <option value="$PROJECT_DIR$/myapp/voice_print/consts.py" />
         <option value="$PROJECT_DIR$/myapp/voice_print/vpr_group_operation.py" />
         <option value="$PROJECT_DIR$/myapp/design_pattern/observer_pattern.py" />
         <option value="$PROJECT_DIR$/myapp/design_pattern/template_pattern.py" />
         <option value="$PROJECT_DIR$/myapp/design_pattern/responsibility_chain_pattern.py" />
         <option value="$PROJECT_DIR$/myapp/design_pattern/mediator_pattern.py" />
+        <option value="$PROJECT_DIR$/myapp/design_pattern/facaed_pattern.py" />
+        <option value="$PROJECT_DIR$/myapp/workspace/descriptor.py" />
+        <option value="$PROJECT_DIR$/myapp/design_pattern/memo_pattern.py" />
+        <option value="$PROJECT_DIR$/myapp/voice_print/asr_grammar.py" />
+        <option value="$PROJECT_DIR$/myapp/voice_print/consts.py" />
+        <option value="$PROJECT_DIR$/myapp/design_pattern/singleton_pattern.py" />
+        <option value="$PROJECT_DIR$/myapp/workspace/fileWriter.py" />
+        <option value="$PROJECT_DIR$/myapp/workspace/process_apply_excel.py" />
+        <option value="$PROJECT_DIR$/myapp/workspace/LFUCacher.py" />
+        <option value="$PROJECT_DIR$/myapp/workspace/LFUCache.py" />
       </list>
     </option>
   </component>
@@ -271,7 +206,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="voice_print" />
+              <option name="myItemId" value="workspace" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -304,7 +239,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/myapp/design_pattern/mediator_pattern.py" />
   </component>
-  <component name="RunManager" selected="Python.mediator_pattern">
+  <component name="RunManager" selected="Python.LFUCache">
     <configuration default="false" name="memo_pattern" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -323,7 +258,25 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="observer_pattern" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="asr_grammar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myapp/voice_print" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PyCharm-Project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myapp/voice_print/asr_grammar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="singleton_pattern" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -336,12 +289,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PyCharm-Project" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myapp/design_pattern/observer_pattern.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myapp/design_pattern/singleton_pattern.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="template_pattern" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="decorator_pattern" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -354,50 +307,27 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PyCharm-Project" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myapp/design_pattern/template_pattern.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myapp/design_pattern/decorator_pattern.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="responsibility_chain_pattern" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="LFUCache" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myapp/design_pattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myapp/workspace" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PyCharm-Project" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myapp/design_pattern/responsibility_chain_pattern.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myapp/workspace/LFUCache.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in mediator_pattern" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myapp/design_pattern" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PyCharm-Project" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myapp/design_pattern/mediator_pattern.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -629,18 +559,18 @@
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.mediator_pattern" />
       <item index="1" class="java.lang.String" itemvalue="Python.memo_pattern" />
-      <item index="2" class="java.lang.String" itemvalue="Python.observer_pattern" />
-      <item index="3" class="java.lang.String" itemvalue="Python.template_pattern" />
-      <item index="4" class="java.lang.String" itemvalue="Python.responsibility_chain_pattern" />
-      <item index="5" class="java.lang.String" itemvalue="Python tests.Unittests in mediator_pattern" />
+      <item index="2" class="java.lang.String" itemvalue="Python.asr_grammar" />
+      <item index="3" class="java.lang.String" itemvalue="Python.singleton_pattern" />
+      <item index="4" class="java.lang.String" itemvalue="Python.decorator_pattern" />
+      <item index="5" class="java.lang.String" itemvalue="Python.LFUCache" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.memo_pattern" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in mediator_pattern" />
-        <item index="2" class="java.lang.String" itemvalue="Python.responsibility_chain_pattern" />
-        <item index="3" class="java.lang.String" itemvalue="Python.template_pattern" />
-        <item index="4" class="java.lang.String" itemvalue="Python.observer_pattern" />
+        <item index="0" class="java.lang.String" itemvalue="Python.LFUCache" />
+        <item index="1" class="java.lang.String" itemvalue="Python.decorator_pattern" />
+        <item index="2" class="java.lang.String" itemvalue="Python.singleton_pattern" />
+        <item index="3" class="java.lang.String" itemvalue="Python.asr_grammar" />
+        <item index="4" class="java.lang.String" itemvalue="Python.memo_pattern" />
       </list>
     </recent_temporary>
   </component>
@@ -676,19 +606,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19989339" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19989339" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.70671" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6417749" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46969697" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.534632" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -718,53 +648,16 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="16" />
+      <option name="time" value="26" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/myapp/design_pattern/strategy_pattern.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/voice_print/consts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/voice_print/vpr_group_operation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/workspace/copy_file_utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/workspace/getattr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myapp/workspace/copy_file_utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -776,10 +669,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myapp/workspace/check_wav.py" />
-    <entry file="file://$PROJECT_DIR$/myapp/workspace/process_apply_excel.py">
+    <entry file="file://$PROJECT_DIR$/myapp/workspace/process_excel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="798">
           <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#57#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -788,6 +684,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -799,10 +696,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myapp/workspace/check_wav.py" />
-    <entry file="file://$PROJECT_DIR$/myapp/workspace/process_apply_excel.py">
+    <entry file="file://$PROJECT_DIR$/myapp/workspace/process_excel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#57#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -812,6 +712,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -826,6 +727,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -837,13 +739,6 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Desktop/openpyxl-2.4.0/setup.py" />
-    <entry file="file://$PROJECT_DIR$/myapp/workspace/copy_file_utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myapp/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -853,25 +748,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myapp/workspace/check_wav.py" />
     <entry file="file://$PROJECT_DIR$/myapp/workspace/encoded_format.py" />
-    <entry file="file://$PROJECT_DIR$/myapp/workspace/process_apply_excel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="963" column="0" selection-start-line="963" selection-start-column="0" selection-end-line="963" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1763082487/__builtin__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="160" column="4" selection-start-line="160" selection-start-column="4" selection-end-line="160" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -882,77 +762,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/design_pattern/builder_pattern.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/design_pattern/factory_pattern.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/design_pattern/lazy_evaluation_pattern.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/design_pattern/singleton_pattern.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="103" column="4" selection-start-line="103" selection-start-column="4" selection-end-line="103" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/design_pattern/abstract_factory_pattern.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1102">
-          <caret line="58" column="26" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myapp/design_pattern/prototype_pattern.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/design_pattern/proxy_pattern.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/design_pattern/adapter_pattern.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/workspace/getattr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/design_pattern/facaed_pattern.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="743">
-          <caret line="63" column="26" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -970,42 +783,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/design_pattern/bridge_pattern.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/design_pattern/decorator_pattern.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/voice_print/consts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myapp/voice_print/vpr_group_operation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/design_pattern/memo_pattern.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1063,13 +844,185 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/design_pattern/mediator_pattern.py">
+    <entry file="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1763082487/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4345">
+          <caret line="5026" column="8" selection-start-line="5026" selection-start-column="8" selection-end-line="5026" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/design_pattern/abstract_factory_pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="58" column="26" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/design_pattern/adapter_pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="762">
+          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/design_pattern/bridge_pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/design_pattern/builder_pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/design_pattern/factory_pattern.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
-          <caret line="105" column="0" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+          <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/design_pattern/lazy_evaluation_pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/design_pattern/mediator_pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-169">
+          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
           <folding>
             <element signature="e#22#35#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/design_pattern/facaed_pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1121">
+          <caret line="59" column="30" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/design_pattern/memo_pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="44" column="27" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python2.7/Lib/site-packages/requests-2.12.1-py2.7.egg/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="109" column="0" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/voice_print/consts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/design_pattern/singleton_pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="119" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/design_pattern/decorator_pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/design_pattern/proxy_pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/voice_print/asr_grammar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="724">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding>
+            <element signature="e#22#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/workspace/copy_file_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="41" column="72" selection-start-line="41" selection-start-column="72" selection-end-line="41" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/workspace/fileWriter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/workspace/getattr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/workspace/process_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+          <folding>
+            <element signature="e#23#57#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/workspace/descriptor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/workspace/LFUCache.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1330">
+          <caret line="70" column="55" selection-start-line="70" selection-start-column="55" selection-end-line="70" selection-end-column="55" />
+          <folding />
         </state>
       </provider>
     </entry>

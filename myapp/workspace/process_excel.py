@@ -4,7 +4,7 @@ import sys
 import os
 
 
-class ApplyExcelProcessor(object):
+class ExcelProcessor(object):
     def __init__(self, excel_file_name, txt_file_name):
         self.excel_file_name = excel_file_name
         self.txt_file_name = txt_file_name
@@ -36,7 +36,7 @@ def main():
     if len(sys.argv) < 2:
         print 'Usage: python %s <*.xlsx> <*.txt>' % sys.argv[0]
     else:
-        processor = ApplyExcelProcessor(sys.argv[1], sys.argv[2])
+        processor = ExcelProcessor(sys.argv[1], sys.argv[2])
         processor.do_process()
 
 

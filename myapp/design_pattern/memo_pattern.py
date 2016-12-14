@@ -78,7 +78,6 @@ def main():
         for i in range(3):
             num_obj.incremental()
             print num_obj
-        a_transaction.commit()
         num_obj += 'x'
         print num_obj
     except Exception as e:

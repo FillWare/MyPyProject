@@ -83,6 +83,24 @@ def main():
     print j.a
 
 
+class SingleMeta(type):
+    def __init__(cls, name, bases, dict):
+        cls._instance = None
+        __new__o = cls.__new__
+
+        @staticmethod
+        def __new__(cls, *args, **kwargs):
+            if cls._instance:
+                return cls._instance
+            cls._instance = cv = __new__o(cls, *args, **kwargs)
+            return cv
+        cls.__new__ = __new__
+
+
+class A(object):
+    __metaclass__ = SingleMeta
+
+
 def singleton(cls, *args, **kwargs):
     instances = {}
 

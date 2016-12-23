@@ -52,13 +52,13 @@ class TestRunner(object):
         self.tc3 = TC3()
         self.tests = (self.tc1, self.tc2, self.tc3)
 
-    def runAll(self):
+    def run_all(self):
         [i.run() for i in self.tests]
 
 
 def client():
     test_runner = TestRunner()
-    test_runner.runAll()
+    test_runner.run_all()
 
 
 if __name__ == '__main__':

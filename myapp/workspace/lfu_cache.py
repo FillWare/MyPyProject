@@ -35,11 +35,11 @@ class LFUCache(object):
         return -1
 
     def set(self, key, value):
+        if self.capacity == 0:
+            return
         if key in self.data_map:
             self.__increment_data_node_freq(key, value)
         else:
-            if self.capacity == 0:
-                return
             if self.capacity == len(self.data_map):
                 self.__remove_data_node(self.head.next_node)
             data_node = DataNode(key, value, 1, None, None)
@@ -51,7 +51,7 @@ class LFUCache(object):
                 self.__insert_freq_node_after(self.head, freq_node)
             self.__link_data_node(data_node, freq_node)
 
-    def __increment_data_node_freq(self, key,value):
+    def __increment_data_node_freq(self, key, value):
         data_node = self.data_map.get(key)
         freq_node = self.freq_map.get(data_node.freq)
         data_node.freq += 1
@@ -127,6 +127,7 @@ def main():
     print cache.get(1)
     cache.set('key1', 7)
     print cache.get('key1')
+
 
 if __name__ == '__main__':
     main()
